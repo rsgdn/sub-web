@@ -275,11 +275,13 @@ export default {
             options: [
               {
                 label: "全面规则",
-                value: "https://raw.githubusercontent.com/rsgdn/now-subconverter/master/subconverter/config/233.ini"
+                value:
+		  "https://raw.githubusercontent.com/rsgdn/now-subconverter/master/subconverter/config/233.ini"
               },
 	      {
-	      label: "极简规则",
-		value: "https://raw.githubusercontent.com/rsgdn/now-subconverter/master/subconverter/config/233_win.ini"
+	        label: "极简规则",
+		value:
+		  "https://raw.githubusercontent.com/rsgdn/now-subconverter/master/subconverter/config/233_win.ini"
 	      },
             ]
           },
