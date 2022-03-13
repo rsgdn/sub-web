@@ -276,12 +276,12 @@ export default {
               {
                 label: "全面规则",
                 value:
-                  "https://raw.githubusercontent.com/rsgdn/now-subconverter/master/subconverter/config/233.ini"
+                  "https://raw.githubusercontent.com/rsgdn/clash_rule/main/233_main.ini"
               },
               {
                 label: "极简规则",
                 value:
-                  "https://raw.githubusercontent.com/rsgdn/now-subconverter/master/subconverter/config/233_win.ini"
+                  "https://raw.githubusercontent.com/rsgdn/clash_rule/main/233_Streamline.ini"
               },
             ]
           },
