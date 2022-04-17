@@ -281,8 +281,13 @@ export default {
               {
                 label: "极简规则",
                 value:
-                  "https://raw.githubusercontent.com/rsgdn/clash_rule/main/233_Streamline.ini"
+                  "https://raw.githubusercontent.com/rsgdn/clash_rule/main/233_streamline.ini"
               },
+              {
+                label: "Basic(仅GEOIP CN + Final)",
+                value:
+                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/special/basic.ini"
+              }
             ]
           },
           {
@@ -477,11 +482,6 @@ export default {
                 label: "NeteaseUnblock(仅规则，No-Urltest)",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/special/netease.ini"
-              },
-              {
-                label: "Basic(仅GEOIP CN + Final)",
-                value:
-                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/special/basic.ini"
               }
             ]
           }
