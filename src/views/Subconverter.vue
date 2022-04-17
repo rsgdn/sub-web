@@ -557,8 +557,8 @@ export default {
   },
   mounted() {
     this.form.clientType = "clash";
-    this.form.customBackend = "https://sub.lhw233333.top/sub?";
-    this.form.remoteConfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini";
+    this.form.customBackend = "https://sub.id9.cc/sub?";
+    this.form.remoteConfig = "https://raw.githubusercontent.com/rsgdn/clash_rule/main/233_streamline.ini";
     this.getBackendVersion();
   },
   methods: {
